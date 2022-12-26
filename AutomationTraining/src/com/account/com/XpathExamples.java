@@ -5,7 +5,6 @@ public class XpathExamples {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-
 		//Xpath=//tagname[@attribute='value']
 		//Id,Name,Class Name,Link text,partial Link text,CSS selectors
 		// Xpath has been classified into 2 types:
