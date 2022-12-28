@@ -58,7 +58,7 @@ public class XpathExamples {
 				
 				
 				/*
-				 * https://www.guru99.com/xpath-selenium.html - link to practice
+				 * https://www.guru99.com/xpath-selenium.html - link for reference -> XPath
 				 * 
 				 * Preceding Following-sibling: Parent: Self: Descendant:
 				 */
