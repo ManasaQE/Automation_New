@@ -22,17 +22,18 @@ public class AlertExample {
 		 
 		
 // Types of Alerts
-		/*
-		 * 1. Simple Alert- Some information or warning on the screen. 2. Prompt Alert-
-		 * It asks for input from the user. 3. Confirmation Alert-
-		 */
+		
+		  // 1. Simple Alert- Some information or warning on the screen.
+		  //2. Prompt Alert- It asks for input from the user. 
+		  //3. Confirmation Alert- It asks for confirmation
+		 
 		     
-		/*
-		 * driver.switchTo().alert().dismiss(); // to click on the cancel button of the
-		 * alert- void dismiss driver.switchTo().alert().accept(); // to click on the ok
-		 * button driver.switchTo().alert().getText(); // to capture alert message
-		 * driver.switchTo().alert().sendKeys(null); //
-		 */
+		
+		  //driver.switchTo().alert().dismiss(); // to click on the cancel button of the
+		  // alert- void dismiss driver.switchTo().alert().accept(); // to click on the ok
+		  // button driver.switchTo().alert().getText(); // to capture alert message
+		  // driver.switchTo().alert().sendKeys(null); //
+		 
 		
 		
 		
