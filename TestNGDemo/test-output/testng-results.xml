@@ -1,17 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-01-03T21:34:04 IST" name="Default suite" finished-at="2023-01-03T21:34:27 IST" duration-ms="23519">
+  <suite started-at="2023-01-05T20:08:31 IST" name="Default suite" finished-at="2023-01-05T20:08:59 IST" duration-ms="28855">
     <groups>
     </groups>
-    <test started-at="2023-01-03T21:34:04 IST" name="Default test" finished-at="2023-01-03T21:34:27 IST" duration-ms="23519">
-      <class name="com.DemoTestNG.com.FirstTestNGProgram">
-        <test-method signature="VerifyHomePageTitle()[pri:0, instance:com.DemoTestNG.com.FirstTestNGProgram@15c43bd9]" started-at="2023-01-03T21:34:04 IST" name="VerifyHomePageTitle" finished-at="2023-01-03T21:34:27 IST" duration-ms="23456" status="PASS">
+    <test started-at="2023-01-05T20:08:31 IST" name="Default test" finished-at="2023-01-05T20:08:59 IST" duration-ms="28855">
+      <class name="com.DemoTestNG.com.FrameWorkExample">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:com.DemoTestNG.com.FrameWorkExample@4d9e68d0]" started-at="2023-01-05T20:08:31 IST" name="launchBrowser" finished-at="2023-01-05T20:08:39 IST" duration-ms="8909" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- VerifyHomePageTitle -->
-      </class> <!-- com.DemoTestNG.com.FirstTestNGProgram -->
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="verifyHomepageTitle()[pri:0, instance:com.DemoTestNG.com.FrameWorkExample@4d9e68d0]" started-at="2023-01-05T20:08:39 IST" name="verifyHomepageTitle" finished-at="2023-01-05T20:08:39 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomepageTitle -->
+        <test-method signature="register()[pri:0, instance:com.DemoTestNG.com.FrameWorkExample@4d9e68d0]" started-at="2023-01-05T20:08:39 IST" name="register" finished-at="2023-01-05T20:08:40 IST" duration-ms="981" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register -->
+        <test-method is-config="true" signature="goBackToHomepage()[pri:0, instance:com.DemoTestNG.com.FrameWorkExample@4d9e68d0]" started-at="2023-01-05T20:08:40 IST" name="goBackToHomepage" finished-at="2023-01-05T20:08:41 IST" duration-ms="929" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goBackToHomepage -->
+        <test-method is-config="true" signature="verifyHomepageTitle()[pri:0, instance:com.DemoTestNG.com.FrameWorkExample@4d9e68d0]" started-at="2023-01-05T20:08:41 IST" name="verifyHomepageTitle" finished-at="2023-01-05T20:08:41 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomepageTitle -->
+        <test-method signature="support()[pri:1, instance:com.DemoTestNG.com.FrameWorkExample@4d9e68d0]" started-at="2023-01-05T20:08:41 IST" name="support" finished-at="2023-01-05T20:08:42 IST" duration-ms="855" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- support -->
+        <test-method is-config="true" signature="goBackToHomepage()[pri:0, instance:com.DemoTestNG.com.FrameWorkExample@4d9e68d0]" started-at="2023-01-05T20:08:42 IST" name="goBackToHomepage" finished-at="2023-01-05T20:08:43 IST" duration-ms="868" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goBackToHomepage -->
+        <test-method is-config="true" signature="terminateBrowser()[pri:0, instance:com.DemoTestNG.com.FrameWorkExample@4d9e68d0]" started-at="2023-01-05T20:08:43 IST" name="terminateBrowser" finished-at="2023-01-05T20:08:59 IST" duration-ms="16270" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminateBrowser -->
+      </class> <!-- com.DemoTestNG.com.FrameWorkExample -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
