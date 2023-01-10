@@ -88,5 +88,6 @@
 	<classpathentry kind="lib" path="C:/Users/Tejas/Downloads/selenium-java-4.7.1/selenium-safari-driver-4.7.1-sources.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Tejas/Downloads/selenium-java-4.7.1/selenium-support-4.7.1.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Tejas/Downloads/selenium-java-4.7.1/selenium-support-4.7.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tejas/OneDrive/Desktop/Softwares/mysql-connector-java-8.0.29.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
